@@ -106,4 +106,4 @@ venv.bak/
 # vscode
 /.vscode
 
-bookmarks/**/meidia/
+/bookmarks/**media/
